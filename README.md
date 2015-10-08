@@ -1,5 +1,5 @@
 # tku_mis_github_workshop_assignedment
-李宜錚 401630529
+李宜錚 401630529 資管4A
 
 ## Git 指令說明
 
